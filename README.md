@@ -1,2 +1,2 @@
 # Portfolio
-## This is a responsive template for designing developer portfoli
+## This is a responsive template for designing developer portfolio
