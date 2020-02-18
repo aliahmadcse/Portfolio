@@ -70,8 +70,26 @@
   font-size: 1.5rem;
 }
 
-.site-main .site-banner .banner-img >img{
+.site-main .site-banner .banner-img>img {
   padding: 7rem 0rem;
-  width:90rem;
+  width: 90rem;
 }
+
 /* end banner area */
+
+/* start about area */
+.site-main .about-area {
+  padding: 8rem 5rem;
+}
+
+.site-main .about-area .about-title h2>span {
+  display: block;
+  font: normal bold 49px/60px var(--roboto);
+  letter-spacing: 21px;
+}
+
+.site-main .about-area .about-title .paragraph>p {
+  padding: .4rem 0rem;
+}
+
+/* end start about area */
