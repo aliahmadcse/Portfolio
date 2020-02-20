@@ -8,3 +8,4 @@
 - Jquery
 - isotope for filtering projects
 - Magnific Popup
+- Owl Carousel
